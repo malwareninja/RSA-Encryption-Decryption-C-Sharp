@@ -1,9 +1,9 @@
 # RSA Encryption Decryption
-Requirements :-
+Requirements :-  
 
-Operating System : Windows
-.NET Framework   : 4.5
-Visual Studio 	 : 2012
+Operating System : Windows  
+.NET Framework   : 4.5  
+Visual Studio 	 : 2012  
 
-Developed by :- Suraj Mundalik (suraj-mundalik.info)
+Developed by :- Suraj Mundalik (suraj-mundalik.info)  
 
